@@ -1,0 +1,84 @@
+
+.no-order.data-v-143b2126{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	background-color: #FFFFFF;
+}
+.no-order-home.data-v-143b2126{
+	padding:6rpx 60rpx;
+	border:2rpx solid #49BDFB;
+	color:#49BDFB;
+	-webkit-border-radius: 40rpx;
+	        border-radius: 40rpx;
+}
+.order-header.data-v-143b2126{
+	background-color: #FFFFFF;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border-bottom:2rpx solid #F7F7F7;
+}
+.header-item.data-v-143b2126{
+	text-align: center;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	line-height: 120rpx;
+}
+.active.data-v-143b2126{
+	border-bottom: 4rpx solid #49BDFB;
+}
+.goods-status.data-v-143b2126{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+	background-color: #FFFFFF;
+	padding:20rpx;
+}
+.total-price.data-v-143b2126{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+	background-color: #FFFFFF;
+	padding:20rpx;
+}
+.payment.data-v-143b2126{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+	background-color: #FFFFFF;
+	padding:20rpx;
+}
+.payment-text.data-v-143b2126{
+	border:2rpx solid #49BDFB;
+	padding:6rpx 40rpx;
+	-webkit-border-radius: 30rpx;
+	        border-radius: 30rpx;
+}
+
